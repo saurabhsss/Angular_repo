@@ -1,0 +1,12 @@
+p{
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+.padding-32{
+  padding: 64px;
+}
+.w3-hover-opacity:hover{
+  opacity: 0.3;
+}
